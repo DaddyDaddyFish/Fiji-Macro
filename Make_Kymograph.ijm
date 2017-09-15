@@ -9,7 +9,7 @@ if(nRoiCount==0) {
 StackName=getString("Type in your vedio name","Experiment-2429.czi");
 
 //You can change the default saving path by changing the line below
-SavingPath=getString("Type in your saving path","C:\\Users\\gaoyuan\\Desktop\\Yuan QB 1265 Gliding");
+SavingPath=getString("Type in your saving path","C:\\Users\\***");
 
 Bool=getString("Do you need PNG files as well?(Type in 'Y' or 'N')",'Y');
 
